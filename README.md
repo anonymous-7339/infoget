@@ -5,14 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/krishnanandivelugu"><b>Twitter</b></a>
+  <a href="https://twitter.com/mkrishna7339"><b>Twitter</b></a>
   <span> - </span>
   <a href="https://t.me/kriShna"><b>Telegram</b></a>
   <span> - </span>
-  
+  <a href="https://instagram.com/krishna_7339_"><b>Instagram</b></a>
+  <span> - </span>
+  <a href="anonymous7339.medium.com"><b>Medium</b></a>
 </p>
 
-infoget is an **automatic web reconnaissance** tool written in python. infoget is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another infoget can provide similar results keeping dependencies
+INFOGET is an **automatic web reconnaissance** tool written in python. infoget is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another infoget can provide similar results keeping dependencies
 
 ## Available In
 
@@ -22,7 +24,7 @@ infoget is an **automatic web reconnaissance** tool written in python. infoget i
 
 </p>
 
-## Featured
+## special thanks to @raghava @mahesh @supraja technologies
 
 ### Python For OSINT
 
